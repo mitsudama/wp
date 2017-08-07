@@ -20,6 +20,9 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
 <?php wp_head(); ?>
+<script type="text/javascript" language="javascript">
+    var vc_pid = "884787551";
+</script><script type="text/javascript" src="//aml.valuecommerce.com/vcdal.js"></script>
 </head>
 
 <body <?php body_class(); ?>>
